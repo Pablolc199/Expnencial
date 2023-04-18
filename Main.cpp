@@ -1,5 +1,12 @@
 #include<iostream>
-usin namespace std;
+class Factorial{
+public: 
+int n;
+int Calcular(){
+    
+}
+};
+using namespace std;
 int main(){
 
     return 0;
